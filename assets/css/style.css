@@ -9,8 +9,9 @@ body {
     background-image: url('../img/foto1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: left;
+    background-position: bottom center;
     padding-bottom: 10rem;
+    height: 500px;
   }
   
   .carousel-indicators {
