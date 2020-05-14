@@ -1,26 +1,26 @@
 body {
   font-family: 'Gochi Hand', cursive;
-  }
-  
-  h1{
-    text-shadow: 2px 0 0 #ffffff, -2px 0 0 #ffffff, 0 2px 0 #ffffff, 0 -2px 0 #ffffff, 1px 1px #ffffff, -1px -1px 0 #ffffff, 1px -1px 0 #ffffff, -1px 1px 0 #ffffff;
-  }
-  header {
-    background-image: url('../img/foto1.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: bottom center;
-    padding-bottom: 10rem;
-    height: 500px;
-  }
-  
-  .carousel-indicators {
-    top: 50px;
-  }
-  
-  .carousel-indicators li {
-    width: 10px;
-    height: 10px;
-    border-radius: 50%;
-  }
-  
+}
+
+h1 {
+  text-shadow: 2px 0 0 #ffffff, -2px 0 0 #ffffff, 0 2px 0 #ffffff, 0 -2px 0 #ffffff, 1px 1px #ffffff, -1px -1px 0 #ffffff, 1px -1px 0 #ffffff, -1px 1px 0 #ffffff;
+}
+
+header {
+  background-image: url('../img/foto1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom center;
+  padding-bottom: 10rem;
+  height: 500px;
+}
+
+.carousel-indicators {
+  top: 50px;
+}
+
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
